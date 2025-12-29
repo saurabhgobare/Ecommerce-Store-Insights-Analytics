@@ -26,6 +26,7 @@ This project analyzes ecommerce sales data to uncover insights on revenue perfor
 ├── 02_sql_queries/
 
 │ ├── 01_general_sales_insights.sql
+
 │ ├── 02_customer_insights.sql
 │ └── ...
 │
