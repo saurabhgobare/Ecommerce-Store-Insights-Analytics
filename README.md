@@ -19,6 +19,7 @@ This project analyzes ecommerce sales data to uncover insights on revenue perfor
 ## 🗂 Project Structure
 📦 ecommerce-store-insights-analytics
 │
+
 ├── 01_database_schema/
 
 │ └── ecommerce_schema.sql <-- SQL Server schema
