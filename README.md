@@ -20,27 +20,27 @@ This project analyzes ecommerce sales data to uncover insights on revenue perfor
 📦 ecommerce-store-insights-analytics
 ├── 01_database_schema/
 
- └── ecommerce_schema.sql <-- SQL Server schema
+    └── ecommerce_schema.sql <-- SQL Server schema
 
 ├── 02_sql_queries/
 
- ├── 01_general_sales_insights.sql
+    ├── 01_general_sales_insights.sql
 
- ├── 02_customer_insights.sql
+    ├── 02_customer_insights.sql
  
 ├── 03_power_bi/
 
-     ├── ecommerce_dashboard.pbix
+    ├── ecommerce_dashboard.pbix
  
- └── dashboard_screenshots/
+  └── dashboard_screenshots/
  
- ├── sales_overview.png
+    ├── sales_overview.png
  
- └── returns_analysis.png
+    └── returns_analysis.png
 
 ├── 04_documentation/
 
- └── business_questions.md <-- List of business questions solved
+    └── business_questions.md <-- List of business questions solved
 
 └── README.md <-- This file
 
