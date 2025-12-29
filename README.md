@@ -30,7 +30,7 @@ This project analyzes ecommerce sales data to uncover insights on revenue perfor
  
 ├── 03_power_bi/
 
- ├── ecommerce_dashboard.pbix
+     ├── ecommerce_dashboard.pbix
  
  └── dashboard_screenshots/
  
